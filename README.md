@@ -10,3 +10,14 @@ Objectives of this project: <br>
 - Searching for missing values in the dataset <br>
 - Renaming the column names appropriately <br>
 - Removing a column from the dataframe 
+- Removing the columns BBI and BBM
+- Finding number of players played for ICC
+- Finding number of different countries are present in this dataset
+- Finding the player who had played for the longest period of time
+- Top 5 batsmen: Highest number of years played
+- Top 5 batsmen: Lowest number of years played
+- Number of Australian Bowlers present in this dataset
+- Finding for Bangladeshi player in the dataset
+- Finding player with lowest economy rate 
+- Finding player with lowest strike rate 
+- Finding player with lowest bowling average
